@@ -697,6 +697,6 @@ if __name__ == '__main__':
 
     C_ECHO_msg = C_ECHO_RQ_Message()
     C_ECHO_msg.FromParams(c)
-    print C_ECHO_msg
-    print C_ECHO_msg.ToParams()
-    print C_ECHO_msg.Encode(1, 100)
+    #print C_ECHO_msg
+    #print C_ECHO_msg.ToParams()
+    #print C_ECHO_msg.Encode(1, 100)
