@@ -43,6 +43,6 @@ setup(name="pynetdicom",
       long_description = open('README.txt').read(),
       install_requires=["pydicom >= 1.0.0"],
       dependency_links=[
-       "git+https://github.com/darcymason/pydicom.git#egg=pydicom-1.0.0"
+       "git+https://github.com/darcymason/pydicom.git#egg=pydicom-0.9.9"
       ]
      )
